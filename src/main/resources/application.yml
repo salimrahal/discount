@@ -1,0 +1,22 @@
+
+server:
+  port: 8184
+  
+spring:
+  application:
+    name: retaildiscount
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    url: jdbc:h2:mem:retail_discount_db;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+    driver-class-name: org.h2.Driver
+    username: adm!n
+    password: adm!n
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: create #will automatically create database tables based on the entity classes on startup
+  h2:
+    console:
+      enabled: true
+      path: /db-console
+    implicitRelativePath: true
