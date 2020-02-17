@@ -1,4 +1,4 @@
-###discounts application
+### discounts application
 
 This app computes net payable given bill item line and amount per item.
 
