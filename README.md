@@ -62,8 +62,9 @@ mvn clean install
 http://localhost:8184/swagger-ui.html
 
 
-### Sonar results
+### Sonar results: will be uploaded soon
 
+https://sonarcloud.io/dashboard?id=salimrahal_discount
 
 
 ### Authors
