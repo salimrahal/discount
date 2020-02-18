@@ -70,7 +70,4 @@ https://sonarcloud.io/dashboard?id=salimrahal_discount
 ### Authors
 Salim rahal
 
-### Mentor
-Charbel Fannoun
-
 
