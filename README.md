@@ -14,7 +14,7 @@ This app computes net payable given bill item line and amount per item.
 ######Checkout the project from git
 
 ```
-git clone https://github.com/
+git clone https://github.com/salimrahal/discount.git
 ```
 
 ######To run the application
