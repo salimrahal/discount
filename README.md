@@ -14,7 +14,7 @@ This app computes net payable given bill item line and amount per item.
 ######Checkout the project from git
 
 ```
-git clone https://github.com/charbelfannoun/retail-app-services.git
+git clone https://github.com/
 ```
 
 ######To run the application
